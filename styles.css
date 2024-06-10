@@ -1,0 +1,197 @@
+/* Estilos generales */
+body {
+    font-family: "DM Serif Text", serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    
+    text-decoration: none;
+    color: black;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffff;
+    color: black;
+}
+
+.logo img {
+    max-height: 140px;
+    border-radius: 50%;
+}
+
+.titulo_mochilero {
+    font-family: "Lilita One", sans-serif;
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    color: black;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-75%);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    cursor:pointer;
+    
+}
+
+/* Main */
+main {
+    padding: 50px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.presentation {
+    max-width: none;
+    background-color: black;
+    opacity: 80%;
+    margin: auto;
+    padding: inherit;
+}
+
+.titulo_presentation{
+    color: white;
+    opacity: 100%;
+}
+
+.presentation form {
+    margin-top: 20px;
+}
+
+.presentation input[type="email"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.presentation button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #1e5b9b;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Products */
+.products {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.product {
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 400ms all; 
+    cursor: pointer
+}
+.product:hover{
+    transform: scale(1.1);
+}
+ 
+.product img {
+    width: 100%;
+    height: auto;
+    transition: 400ms all;
+}
+
+.product h3 {
+    padding: 10px;
+}
+
+.product p {
+    padding: 0 10px 10px 10px;
+}
+
+.product img:hover {
+    transform: scale(1.1);
+}
+
+.horizontal-scroll {
+    width: 100%;
+    overflow-x: auto;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    height: 150px;  /* Altura fija del contenedor */
+}
+
+.horizontal-scroll img {
+    max-height: 100%;  /* Las imágenes no excederán la altura del contenedor */
+    max-width: 100%;  /* Previene que las imágenes sean más anchas que el contenedor */
+    width: auto;      /* Mantiene la relación de aspecto de las imágenes */
+    height: auto;     /* Mantiene la relación de aspecto de las imágenes */
+    margin-right: 10px; /* Espacio entre imágenes */
+    transition: 400ms all;
+    cursor: pointer;
+}
+
+.horizontal-scroll img:hover{
+    transform:scale(1.1)
+}
+
+/* Footer */
+footer {
+    padding: 20px;
+    background-color: #01080f;
+    color: white;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-social {
+    margin: 30px 0;
+}
+
+.footer-social ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    transform: translateX(160%);
+}
+
+.footer-social ul li img {
+    max-height: 45px;
+    transition: 400ms all;
+    cursor: pointer;
+}
+.footer-social ul li img:hover {
+    transform:scale(1.1)
+}
+.final_footer {
+    transform: translateX(170%);
+}
