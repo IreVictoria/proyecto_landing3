@@ -710,9 +710,13 @@ footer {
     transform: translateX(170%);
 }
 ```
-<p> A continuación se dara a conocer el prototipado de la página web </p>
+<p> A continuación se dara a conocer el prototipado de la página web antes de comenzar el desarrollo del proyecto: </p>
 
 [![prototipo-dise-o.png](https://i.postimg.cc/d1JqPXWm/prototipo-dise-o.png)](https://postimg.cc/mc6x7dWt)
+
+1. Sección Main:
+
+[![dise-o-3.png](https://i.postimg.cc/B6Kqs8kT/dise-o-3.png)](https://postimg.cc/47XCQ3Jy)
 
 
 
