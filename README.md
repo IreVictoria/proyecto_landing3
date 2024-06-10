@@ -720,7 +720,14 @@ footer {
 
 [![dise-o-pagina-1.png](https://i.postimg.cc/Hkn1dc7r/dise-o-pagina-1.png)](https://postimg.cc/RNkDT0dm)
 
+
 2. Sección Main:
+
+[![dise-o-2.png](https://i.postimg.cc/mgzpmQHy/dise-o-2.png)](https://postimg.cc/LJSVXgvJ)
+
+
+
+4. Sección Productos:
 
 [![dise-o-3.png](https://i.postimg.cc/B6Kqs8kT/dise-o-3.png)](https://postimg.cc/47XCQ3Jy)
 
