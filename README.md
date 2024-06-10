@@ -714,7 +714,13 @@ footer {
 
 [![prototipo-dise-o.png](https://i.postimg.cc/d1JqPXWm/prototipo-dise-o.png)](https://postimg.cc/mc6x7dWt)
 
-1. Sección Main:
+<p> La página Landing de Negocio finalizada se vería así: </p>
+
+1. Sección Header:
+
+[![dise-o-pagina-1.png](https://i.postimg.cc/Hkn1dc7r/dise-o-pagina-1.png)](https://postimg.cc/RNkDT0dm)
+
+2. Sección Main:
 
 [![dise-o-3.png](https://i.postimg.cc/B6Kqs8kT/dise-o-3.png)](https://postimg.cc/47XCQ3Jy)
 
