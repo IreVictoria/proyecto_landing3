@@ -4,12 +4,17 @@
 ------------
 
 <p>
+ 
 En este proyecto se dará a conocer la construcción de una página web dirigida a un `Landign de Negocio` el cual se realizará con el lenguaje de programación `HTML` y `CSS` donde se utilizará el editor `Studio Visual Code` para codificar el sitio web. A continuación, se darán a conocer los requisitos del proyecto y el paso a paso de su construcción.
+
 </p>
 
 ------------
 
-### Requisitos del Proyecto.
+## Requisitos del Proyecto.
+
+------------
+
 -  Desarrollar prototipado simple.
 -  Aplicar en todo el sitio HTML5
 -  Aplicar estilos CSS.
@@ -21,15 +26,18 @@ En este proyecto se dará a conocer la construcción de una página web dirigida
 
 ------------
 
-### Realización página web paso a paso.
+## Realización página web paso a paso.
 
 ------------
 
 <p>
+ 
 En la construcción de diseño del `Landing de Negocio` se realizó primero en un archivo `index.html` y en otro archivo llamado `style.css` se confeccionaron los estilos de la página web, además se creó una carpeta el cual contiene todas las imágenes incluidas en el proyecto. 
+
 </p>
 
-1. Primero creamos el `Header` el cual contiene los primeros elementos de la página web que son el logo, titulo y barra de navegación. 
+1. Primero creamos el `Header` el cual contiene los primeros elementos de la página web que son el logo, titulo y barra de navegación.
+   
 
 ```html
  <!-- Header -->
@@ -50,7 +58,9 @@ En la construcción de diseño del `Landing de Negocio` se realizó primero en u
         </nav>
     </header>
 ```
+
 <p>Luego se muestran los estilos brindados en el `Header`.</p>
+
 
 ```css
 /* Estilos generales */
@@ -105,7 +115,9 @@ nav ul li a {
     
 }
 ```
+
 2. Se crea el contenido del `Main` que es el bloque de código el cual contendrá la parte principal de la página web.
+   
 
 ```html
  <!-- Main -->
@@ -123,8 +135,11 @@ nav ul li a {
     </main>
 
 ```
+
 <p>
+ 
 Luego tenemos el diseño de estilos brindado en el `Main`.
+
 </p>
 
 ```css
@@ -169,9 +184,13 @@ main {
 }
 
 ```
+
 <p>
+ 
 3. Seguimos con la construcción de la página web y tenemos la sección `Productos`.
+   
 </p>
+
 
 ```html
  <!-- Productos -->
@@ -215,8 +234,11 @@ main {
 
     </div>
 ```
+
 <p>
+ 
 Luego tenemos el diseño de estilos brindado en `Productos`.
+
 </p>
 
 ```css
@@ -288,9 +310,13 @@ Luego tenemos el diseño de estilos brindado en `Productos`.
 }
 
 ```
+
 <p>
-4. Y por último tenemos la sección del `Footer` que es la última parte del diseño web. 
+ 
+4. Y por último tenemos la sección del `Footer` que es la última parte del diseño web.
+   
 </p>
+
 
 ```html
   <!-- Footer -->
@@ -312,9 +338,13 @@ Luego tenemos el diseño de estilos brindado en `Productos`.
 </html>
 
 ```
+
 <p>
+ 
 Y también tenemos la última parte de estilos brindados en el `Footer`.
+
 </p>
+
 ```css
 /* Footer */
 footer {
@@ -355,9 +385,13 @@ footer {
     transform: translateX(170%);
 }
 ```
+
 <p>
+ 
 La solución final en conjunto de `HTML` sería así: 
+
 </p>
+
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -469,9 +503,13 @@ La solución final en conjunto de `HTML` sería así:
 </html>
 
 ```
+
 <p>
+ 
 La solución final del diseño de estilos en `CSS` sería así:
+
 </p>
+
 
 ```css
 /* Estilos generales */
