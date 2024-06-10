@@ -736,4 +736,12 @@ footer {
 [![dise-o-4.png](https://i.postimg.cc/ryZ97Dcn/dise-o-4.png)](https://postimg.cc/Z033dKWp)
 
 
+5. Sección Footer:
+
+[![dise-o-5.png](https://i.postimg.cc/Kj54Sk39/dise-o-5.png)](https://postimg.cc/p5pPKdZ8)
+
+
+
+
+
 
