@@ -717,13 +717,26 @@ footer {
 <p> La página `Landing de Negocio`se visualiza de esta forma:</p>
 
 1. Sección Header:
+
+
+
    
 [![dise-o-pagina-1.png](https://i.postimg.cc/pdqSr6WB/dise-o-pagina-1.png)](https://postimg.cc/8Ff4nwrF)
 
 
+
+
+
+
+
 2. Sección Main:
+
+
    
 [![dise-o-2.png](https://i.postimg.cc/DzZ9rTYN/dise-o-2.png)](https://postimg.cc/fVGqs6s7)
+
+
+
 
 
 3. Sección Productos:
@@ -733,7 +746,29 @@ footer {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![dise-o-4.png](https://i.postimg.cc/9XGnq0QM/dise-o-4.png)](https://postimg.cc/XXY8RVFS)
+
+
+
+
+
+
+
+
 
 
 4. Sección Footer:
