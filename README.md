@@ -341,7 +341,7 @@ Luego tenemos el diseño de estilos brindado en `Productos`.
 
 <p>
  
-Y también tenemos la última parte de estilos brindados en el `Footer`.
+Y también tenemos la última parte de los estilos brindados en el `Footer`.
 
 </p>
 
