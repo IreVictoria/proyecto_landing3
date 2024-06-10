@@ -710,3 +710,6 @@ footer {
     transform: translateX(170%);
 }
 ```
+<p> A continuación se dara a conocer el prototipado de la página web </p>
+
+[![prototipo-dise-o.png](https://i.postimg.cc/d1JqPXWm/prototipo-dise-o.png)](https://postimg.cc/mc6x7dWt)
